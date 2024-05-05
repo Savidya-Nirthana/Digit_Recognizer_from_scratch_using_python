@@ -1,7 +1,6 @@
 from sklearn.datasets import load_digits
 import numpy as np
-import matplotlib.pyplot as plt
-import matplotlib
+
 
 dataset = load_digits()
 
